@@ -1,11 +1,19 @@
-* {
+body{
+    color: #333;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-h1 {
-    color: rebeccapurple;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
 
-p {
-    color: p;
+#container h1{
+    font-size: 20px;
 }
